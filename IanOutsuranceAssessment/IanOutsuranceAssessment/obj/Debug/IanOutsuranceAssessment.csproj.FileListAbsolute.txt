@@ -1,0 +1,15 @@
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\bin\Debug\IanOutsuranceAssessment.exe.config
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\bin\Debug\IanOutsuranceAssessment.exe
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\bin\Debug\IanOutsuranceAssessment.pdb
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\bin\Debug\Infrastructure.dll
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\bin\Debug\Infrastructure.pdb
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment.csprojResolveAssemblyReference.cache
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\MainWindow.baml
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\MainWindow.g.cs
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\App.g.cs
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment_MarkupCompile.cache
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment.g.resources
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment.Properties.Resources.resources
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment.csproj.GenerateResource.Cache
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment.exe
+C:\Source\IanOutsuranceAssessment\IanOutsuranceAssessment\obj\Debug\IanOutsuranceAssessment.pdb
